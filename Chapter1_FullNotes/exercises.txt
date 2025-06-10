@@ -1,0 +1,44 @@
+Exercises
+
+1. A spreadsheet that calculates sums and other pre-defined functions on given data
+	- I said that this is not AI because we technically have to make the function that calculates the sum and whatnot. 
+	- CORRECT
+
+
+2. Predicting the stock market by fitting a curve to past data about stock prices
+	- I said kind of AI because although no one can predict how and what will happen to the stock prices and stock market, there can be AI
+	that can help make some better supported decisions. Like it can make the right decision at time and can predict it but not always will be
+	correct.
+	- CORRECT
+
+
+3. A GPS navigation system for finding the fastest route. 
+	- I said that this is AI because it clearly has to take in a bunch of data and then it predicts how long it will take based on that data and
+	constantly do updates on the time. Google Maps does this all the time. 
+	- CORRECT
+
+
+4. A music recommendation system such as Spotify that suggests music based on the users' listening behavior
+	- I said that this is AI because its literally taking in your past music taste and generating some new songs for you. 
+	- CORRECT
+
+
+5. Big data storage solutions that can store huge amounts of data (such as images or video) and stream them to many users at the same time
+	- I said that this is not AI because we are just storing the data and then just showing it on the frontend, there is no use of AI here at all
+	and the data is just "static"
+	- CORRECT
+
+
+6. Photo editing features such as brightness and contrast in applications such as Photoshop
+	- I said that this is kind of AI because yes there is actual software to do this and not AI but there are some sites that now have an AI feature
+	for this and at times it is better. 
+	- CORRECT
+
+
+7. Style transfer filters in applications such as Prisma that take a photo and transform it into different art styles (impressionist, cubist, ...)
+	- I said that this is kind of AI because of number 6 but that was wrong. SO, this takes image stats and learns them, and then it transforms the input
+	photo so that its stats match the style and the system can adapt to the desired art style. 
+	- INCORRECT. 
+
+Total Score: 6/7
+
