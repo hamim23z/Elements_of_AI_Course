@@ -1,1 +1,63 @@
+Exercise 2 - Taxonomy of AI
 
+So looking at the diagram on the website, it is asking to make a taxonomy in the Euler diagram example showing the relationships
+of all the following: AI, ML, CS, DS, and DL. 
+
+1. Where would you put AI?
+	- Section B because AI is part of CS. 
+	- CORRECT
+
+
+2. Where would you put machine learning?
+	- Section C because ML is part of AI which is part of CS.
+	- CORRECT 
+
+
+3. Where would you put computer science?
+	- Section A because its the main one. 
+	- CORRECT
+
+
+4. Where would you put data science?
+	- Section E because although its closely related to CS, it can be its own field more so. 
+	- CORRECT
+
+
+5. Where would you put deep learning?
+	- Section D because DL is part of ML which is part of AI which is part of CS. 
+	- CORRECT
+
+TOTAL SCORE: 5/5
+
+----------
+
+
+Exercise 3 - Examples of Tasks
+
+1. Autonomous car
+	- I said Stats, Robots, ML because for obvious reasons. 
+	- CORRECT. 
+
+
+2. Steering a rocket into orbit
+	- I said Stats, Robots, and ML because stats to calculate trajectory and data and whatnot. Robots because
+	we need it. And ML to improve over time. 
+	- WRONG BUT IT SAID NO CORRECT ANSWER BC IT DEPENDS ON HOW WE INTERPRET IT
+
+
+3. Online ad optimization
+	- I said Stats and ML because we need stats and ML needed to improve the ads we see. 
+	- CORRECT
+
+
+4. Customer service chatbot
+	- I said ML. We dont need stats here. It is just ML to focus on. A customer service chatbot will need machine learning 
+	to process human produced language in such a way that it can act on it.
+	- CORRECT
+
+
+5. Summarizing gallup results
+	- Whats a gallup? 
+	- Summarizing gallup results is a classical case of using statistics to produce insights.
+
+TOTAL SCORE: 4/5
